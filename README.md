@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats-three-eta-91.vercel.app/api/top-langs/?username=MichStew&layout=donut-vertical&theme=transparent)
+![Top Langs](https://github-readme-stats-three-eta-91.vercel.app/api/top-langs/?username=MichStew&layout=compact&theme=transparent&langs_count=18&stats_format=bytes&card_width=1000px)
 <!--
 **MichStew/MichStew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
